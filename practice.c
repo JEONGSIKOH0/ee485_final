@@ -1,4 +1,4 @@
 int main(void)
 {
-    printf("commit: b02425");
+    printf("commit: 578bea");
 }
